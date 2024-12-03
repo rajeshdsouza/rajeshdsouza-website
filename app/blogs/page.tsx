@@ -17,6 +17,8 @@ export default async function BlogsPage() {
           <Link 
             key={post.slug}
             href={post.slug}
+            target="_blank"
+            rel="noopener noreferrer"
             className="work-card block p-6 rounded-lg"
           >
             <article>
