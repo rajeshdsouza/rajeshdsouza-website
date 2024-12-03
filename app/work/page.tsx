@@ -62,7 +62,7 @@ export default function WorkPage() {
                   <h2 className="text-white text-2xl font-semibold mb-1">Multiple Internships</h2>
                   <p className="text-zinc-400">Full-time &middot; Part Time</p>
                 </div>
-                <p className="text-zinc-400">Jun 2021 - Dec 2021 &middot; 6 months</p>
+                <p className="text-zinc-400">Aug 2018 - July 2021 &middot; 3 years(In-breaks)</p>
               </div>
               <ul className="space-y-3 text-white">
                 <li><Link href="#" className="text-[#00FF94] hover:opacity-80">Mintifi</Link> is a fin-tech company that provides loans to SMBs that banks find too risky to touch.</li>
