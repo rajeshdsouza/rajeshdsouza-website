@@ -103,7 +103,7 @@ export async function getMediumBlogPosts(): Promise<BlogPost[]> {
         title: post.title,
         description: extractDescription(post.contentEncoded || post.content),
         date: new Date(post.pubDate).toISOString(),
-        slug: new URL(post.link).pathname.split('/').pop() || '',
+        slug: post.link,
         content: cleanContent(post.contentEncoded || post.content),
         readingTime: getReadingTime(post.contentEncoded || post.content)
       }));
