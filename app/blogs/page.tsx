@@ -16,7 +16,7 @@ export default async function BlogsPage() {
         {posts.map((post) => (
           <Link 
             key={post.slug}
-            href={`/blogs/${post.slug}`}
+            href={post.slug}
             className="work-card block p-6 rounded-lg"
           >
             <article>
