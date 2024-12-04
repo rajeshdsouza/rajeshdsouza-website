@@ -1,3 +1,4 @@
+'use client'
 import { getMediumProjects } from '@/lib/medium';
 import { format } from 'date-fns';
 import Link from 'next/link';
