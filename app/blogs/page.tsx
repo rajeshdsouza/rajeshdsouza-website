@@ -1,3 +1,4 @@
+'use client'
 import { getMediumBlogPosts } from '@/lib/medium';
 import { format } from 'date-fns';
 import Link from 'next/link';
