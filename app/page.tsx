@@ -46,7 +46,7 @@ export default function Home() {
         </Link>
         <Link href="/projects">
           <Button className="button-highlight bg-[#00FF94] text-black hover:bg-[#00FF94]/90">
-            View Projects
+            View Projects Test
           </Button>
         </Link>
       </div>
