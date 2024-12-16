@@ -50,6 +50,20 @@ export default function Home() {
           </Button>
         </Link>
       </div>
+      
+      <div className="mt-12 mb-16">
+        <h3 className="text-2xl font-bold mb-4 text-center">
+          I&apos;m recommended by Elon
+        </h3>
+        <div className="max-w-xl mx-auto">
+          <Image
+            src="/elon-tweet.png" // Make sure to add the image to your public folder
+            alt="Elon Musk's recommendation tweet"
+            width={600}
+            height={200}
+            className="rounded-lg shadow-lg"
+          />
+        </div>
     </Container>
   );
 }
