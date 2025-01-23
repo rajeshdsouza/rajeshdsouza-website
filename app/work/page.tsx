@@ -70,7 +70,8 @@ export default function WorkPage() {
                 <li>Collaborated cross-functionally to ensure timely lender compliance.</li>
                 <li>Reached #2 in annual sales performance at Tommy Hilfiger, achieving this milestone in just 9 months of joining.</li>
                 <li>Entrusted with critical store responsibilities: opening/closing operations, cash management, and direct bank deposits for business accounts.</li>
-                <li>Sertumer is a med-tech company. I was responsible for B2B &amp; B2C sales, setting up e-com stores and procurement.</li>
+                <li>Serturner was a med-tech company. I was responsible for B2B &amp; B2C sales, setting up e-com stores, and procurement.</li>
+                <li><Link href="https://aiesec.org/" target="_blank" rel="noopener noreferrer" className="text-[#00FF94] hover:opacity-80">AIESEC</Link> is the world's largest youth-run organization. I held various responsibilities in the fields of B2B/B2C sales, event management, and lead generation initiatives.</li>
               </ul>
             </div>
           </div>
