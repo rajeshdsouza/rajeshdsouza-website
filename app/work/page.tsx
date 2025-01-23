@@ -48,7 +48,7 @@ export default function WorkPage() {
                 <li>Conducted 100+ demos, converting ~20% to customers, and maintained 70% retention rate.</li>
                 <li>Set up automations to acknowledge bugs and user feedback, saving ~20 hours per week.</li>
                 <li>Collaborated with the product and engineering team to help prioritize bugs and features on the product roadmap leveraging user data(Mixpanel &amp; UXCam) and feedback from customer development calls.</li>
-                <li>Jackett pivoted to <Link href="https://coteach.io/" className="text-[#00FF94] hover:opacity-80">CoTeach</Link>. Secured 5 pilot partnerships with major content creators (5M+ total subscribers) through strategic multi-platform outreach within one month.</li>
+                <li>Jackett pivoted to <Link href="https://coteach.io/" target="_blank" rel="noopener noreferrer" className="text-[#00FF94] hover:opacity-80">CoTeach</Link>. Secured 5 pilot partnerships with major content creators (5M+ total subscribers) through strategic multi-platform outreach within one month.</li>
               </ul>
             </div>
           </div>
@@ -65,7 +65,7 @@ export default function WorkPage() {
                 <p className="text-zinc-400">Aug 2018 - July 2021 &middot; 3 years(In-breaks)</p>
               </div>
               <ul className="space-y-3 text-white">
-                <li><Link href="https://www.mintifi.com/" className="text-[#00FF94] hover:opacity-80">Mintifi</Link> is a fin-tech company that provides loans to SMBs that banks find too risky to touch.</li>
+                <li><Link href="https://www.mintifi.com/" target="_blank" rel="noopener noreferrer" className="text-[#00FF94] hover:opacity-80">Mintifi</Link> is a fin-tech company that provides loans to SMBs that banks find too risky to touch.</li>
                 <li>Generated $300,000 USD in revenue by independently owning the entire sales cycle for Mintifi.</li>
                 <li>Collaborated cross-functionally to ensure timely lender compliance.</li>
                 <li>Reached #2 in annual sales performance at Tommy Hilfiger, achieving this milestone in just 9 months of joining.</li>
